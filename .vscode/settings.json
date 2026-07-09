@@ -1,0 +1,5 @@
+{
+  "chat.defaultModel": "deepseek/deepseek-v4-pro",
+  "chat.preferredModel": "deepseek/deepseek-v4-pro",
+  "commandcode.model": "deepseek-v4-pro"
+}
